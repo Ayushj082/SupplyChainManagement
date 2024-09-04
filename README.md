@@ -7,6 +7,9 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
 
 Our DApp utilizes the inherent transparency and immutability of blockchain to provide a secure and transparent platform for tracking goods at every stage of the supply chain. Leveraging smart contracts, the DApp automates various tasks such as verifying product authenticity, recording transactions, and managing inventory in real-time
 
+![image](https://github.com/user-attachments/assets/16984f20-bf67-4e03-8192-a7f42f972f7c)
+
+![image](https://github.com/user-attachments/assets/ecede673-f362-4e92-a8a6-97f00c062f12)
 
 #### Install Vs Code Editor
 
@@ -38,9 +41,4 @@ We are using RemixID for deploying the contract and generation of the ABI in the
   OPEN: RemixID
 ```
 
-#### Polygon Mumbai
-
-```https://mumbai.polygonscan.com/
-  OPEN: Polygon Mumbai
-```
 
